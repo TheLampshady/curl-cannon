@@ -1,1 +1,12 @@
-first_name=zach
+path=/newsletter/thinkwithgoogle/signup
+form-first_name=zzz
+form-last_name=top
+form-email_address= 
+form-company_name=NASA
+form-job_function=Account Management
+form-job_level=Associate or Analyst
+form-country=Afghanistan
+form-optin_industry=optinIndustryAutoenALL
+form-optin_industry=optinIndustryB2BenALL
+form-optin_platform=optinPlatformDisplayenALL
+googlepublisher-form-card_checkboxes=optinDCPublisherenALL

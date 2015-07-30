@@ -1,0 +1,2 @@
+test/bdd/env/bin/behave-parallel test/bdd/features/YouTubeStickyNav.feature --processes 6 \
+	--junit --junit-directory reports/firefox/large -t @large -t ~@wip t- ~@nophantomjs
